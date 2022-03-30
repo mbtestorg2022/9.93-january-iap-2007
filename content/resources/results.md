@@ -4,6 +4,7 @@ description: Results from a survey on how permissible it is to kill an adult, in
   to save (1) a toddler, (2) another adult, or (3) an elderly person.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/9-93-marathon-moral-reasoning-laboratory-january-iap-2007/2e59e8bc406b6c2bc64b725410db5fc5_results.pdf
 file_type: application/pdf
+parent_uid: d0a61df5-b763-afd0-6873-a60d5f05a2bd
 resourcetype: Document
 title: Results
 uid: 2e59e8bc-406b-6c2b-c64b-725410db5fc5
